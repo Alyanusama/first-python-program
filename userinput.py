@@ -1,0 +1,12 @@
+a = input( "write your name:")
+print(a)
+a = input("enter first number:")
+#b = input("enter second number:")
+b = 5
+print( int(a)+(b))
+a = input("enter first number:")
+b = input("enter second number:")
+print( int(a)-int(b))
+a = input("enter first number:")
+b = input("enter second number:")
+print( float(a)-int(b))
